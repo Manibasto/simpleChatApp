@@ -1,0 +1,18 @@
+PODS:
+  - MaterialComponents/Ink (62.0.0):
+    - MaterialComponents/private/Math
+  - MaterialComponents/private/Math (62.0.0)
+
+DEPENDENCIES:
+  - MaterialComponents/Ink
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MaterialComponents
+
+SPEC CHECKSUMS:
+  MaterialComponents: bad29aec8c4dd416aa35f87afb8d65d44456d712
+
+PODFILE CHECKSUM: 2021ac067469bf8a54eaa38b01b34f9efc1a43cf
+
+COCOAPODS: 1.5.3
